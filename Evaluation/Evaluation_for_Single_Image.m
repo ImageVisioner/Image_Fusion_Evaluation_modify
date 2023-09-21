@@ -6,6 +6,7 @@ easy =1;
 % source_image_name2 = '..\Image\Source-Image\TNO\vi\01.png';
 % fused_image_name = '..\Image\Algorithm\SeAFusion_TNO\01.png';
 
+
 tic
 
 source_image_name1 = '.\image\TNO\thermal\3.bmp'; %红外图像

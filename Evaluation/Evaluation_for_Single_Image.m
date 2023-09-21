@@ -9,9 +9,9 @@ easy =1;
 
 tic
 
-source_image_name1 = '.\image\TNO\thermal\17.bmp'; %红外图像
-source_image_name2 = '.\image\TNO\visual\17.bmp'; %可见光图像
-fused_image_name = '.\image\fuse\17.bmp'; % 融合图像
+source_image_name1 = '.\image\llvip\thermal\7.bmp'; %红外图像
+source_image_name2 = '.\image\llvip\visual\7.bmp'; %可见光图像
+fused_image_name = '.\image\fuse\7.bmp'; % 融合图像
 
 ir_image = imread(source_image_name1);
 vi_image = imread(source_image_name2);

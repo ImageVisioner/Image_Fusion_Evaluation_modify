@@ -7,7 +7,9 @@ This repo is evaluated using quality indicators for image fusion.
 
 We modify the **Evaluation_for_Single** to  **EValuationDirFile**
 
-So that the fused images of the entire folder can be traversed at once.  
+So that the fused images of the entire folder can be traversed at once.     
+
+
 
 # note:
 ![image](https://github.com/ImageVisioner/Image_Fusion_Evaluation_modify/assets/102503666/533d0cd0-6780-40dc-820a-5bab5d4ed9ec)

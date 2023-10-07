@@ -9,6 +9,9 @@ We modify the **Evaluation_for_Single** to  **EValuationDirFile**
 
 So that the fused images of the entire folder can be traversed at once.     
 
+I have overloaded this script to traverse the fused images under the entire folder and measure the average value 
+![image](https://github.com/ImageVisioner/Image_Fusion_Evaluation_modify/assets/102503666/24564ceb-62dc-4186-93f5-308be912e73f)
+
 
 
 # note:
